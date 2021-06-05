@@ -16,3 +16,5 @@ git add * > git status > git commit -m > git push origin master
 이때 기본적으로 master 브랜치가 자동 생성된다.
 따라서 git push origin master 의 이유도 기본으로 생성된 master 브랜치를 사용하기 위해서이다.
 - 내용수정 테스트 4 - 파일 삭제해보기 테스트 3에서 추가한 add File.txt 를 삭제하고 commit 해보자
+- 내용수정 테스트 5 - 테스트 4에서 commit 을 했을때 파일을 없으면 그파일은 삭제될까 했지만 그것은 아니였다. 테스트를 진행하고 생각해보니 이미 파일은 github에 올라가 있기 때문에 여기서 파일을 삭제한다 해도 파일은 삭제되지 않는다.
+			즉 git을 이용해서는 수정, 추가 밖에 할수 없는것 같다 아니면 삭제하는 방법을 내가 아직 모르는것 같기도 하다.
