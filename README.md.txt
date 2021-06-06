@@ -20,3 +20,5 @@ git add * > git status > git commit -m > git push origin master
 			즉 git을 이용해서는 수정, 추가 밖에 할수 없는것 같다 아니면 삭제하는 방법을 내가 아직 모르는것 같기도 하다.
 - 내용 테스트 보기 숨겨진 폴더 찾아서 집어넣기
 This is an H1
+
+21-06-06 2일차 파일 업로드 복습
